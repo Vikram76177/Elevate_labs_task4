@@ -54,10 +54,10 @@ KPIs, trends, and insights.
 
 ## 📦 Submission
 
-This repository contains: - 
-- Power BI file (.pbix)\
+This repository contains:
 - Dataset\
 - PPT Summary\
+- Power BI file (.pbix)\
 - README.md
 
 📜 License
