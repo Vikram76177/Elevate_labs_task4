@@ -59,3 +59,7 @@ This repository contains: -
 - Dataset\
 - PPT Summary\
 - README.md
+
+📜 License
+
+Free to use for education and portfolio projects.
